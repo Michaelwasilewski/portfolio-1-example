@@ -1,70 +1,53 @@
-# Your project title
+# My first HTML & Css Website
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](https://user-images.githubusercontent.com/89254319/171606419-bd1e147a-9acd-4e00-a637-65e534cf5190.png)
+![image](https://user-images.githubusercontent.com/89254319/171605782-493fb62b-24d6-42f2-94bd-0f209f15f7cd.png)
 
-A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+This project was about creating "GameHub" The universe of games. With the following pages
 
-You can add some bullet points if you'd like to:
-
-- List item 1
-- List item 2
-- List item 3
+- Home
+- List of games
+- A games page showing the product details
+- Checkout page
+- Checkout success
+- About
+- Contact
+- Its target audience is for gamers aged 18 to 25.
+- Website is responsive and looks nice on all screen sizes.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
 
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- HTML
+- CSS
+
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+Clone this repo and start it with live server to see the action :)
 
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com:Noroff-Fagskole/html-and-css-course-assignment-Michaelwasilewski.git
 ```
 
-2. Install the dependencies:
-
-```
-npm install
-```
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+To run the app simply clone this repo and open with live server.
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
+[My Facebook page](https://www.facebook.com/Wasiu1243/)
 
-[My LinkedIn page](www.linkedin.com)
+[My LinkedIn page](https://www.linkedin.com/in/michal-wasilewski-751b8921a/)
 
-## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
 
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
